@@ -11,7 +11,7 @@
 
 #include <iostream>
 #include <string>
-#include "arbol.cpp"
+#include "arbol.h"
 
 /* usa este código para poner tus propios
 *  comentarios y explicar que hace cada instrucción
